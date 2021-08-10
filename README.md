@@ -24,6 +24,6 @@
 ## 📞 Contact Me
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nuflakbrr)
 [![Instagram Badge](https://img.shields.io/badge/-kbrnugroho-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kbrnugroho/)](https://instagram.com/kbrnugroho)
-[![Linkedin Badge](https://img.shields.io/badge/-NaufalAkbarNugroho-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahmatagungj/)](https://www.linkedin.com/in/rahmatagungj/)
+[![Linkedin Badge](https://img.shields.io/badge/-nuflakbrr-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuflakbrr/)](https://www.linkedin.com/in/rahmatagungj/)
 [![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
 
