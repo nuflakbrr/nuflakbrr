@@ -27,3 +27,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-nuflakbrr-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuflakbrr/)](https://www.linkedin.com/in/nuflakbrr/)
 [![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
 
+<div align="center">
+    <h3 align="center">made with &nbsp;❤️&nbsp; by Naufal Akbar Nugroho</h3>
+</div>
