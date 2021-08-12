@@ -2,8 +2,8 @@
 <h3 align="center">Student of Telkom Schools</h3>
 
 ## ⭐ Statistics
-![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuflakbrr&show_icons=true&theme=nightowl)
-![Naufal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuflakbrr&theme=nightowl&layout=compact)
+![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuflakbrr&show_icons=true&theme=tokyonight)
+![Naufal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuflakbrr&theme=tokyonight&layout=compact)
 
 ## 🛠 Languages and Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
