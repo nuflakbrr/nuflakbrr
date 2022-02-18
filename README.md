@@ -1,19 +1,19 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/nuflakbrr">
+  <a href="https://twitter.com/nuflakbrr" target="_blank">
     <img
       src="https://img.shields.io/twitter/follow/nuflakbrr?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
-  <a href="https://naufalakbar.me">
+  <a href="https://naufalakbar.me" target="_blank">
     <img
       src="https://img.shields.io/badge/%F0%9F%8C%8F-naufalakbar.me-blue"
       alt="Website"
     />
   </a>
-  <a href="https://instagram/kbrnugroho">
+  <a href="https://instagram.com/kbrnugroho" target="_blank">
     <img
       src="https://img.shields.io/badge/%F0%9F%93%B8-Instagram-critical"
       alt="Instagram"
