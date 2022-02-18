@@ -36,7 +36,7 @@
 - Student at [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id)
 - Loves a freshly brewed cup of coffee
 
-![Metrics](https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/main/github-metrics.svg)
 
 ## 🛠 Languages and Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
