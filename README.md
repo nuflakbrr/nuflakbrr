@@ -69,7 +69,7 @@
 
 ## 📞 Contact Me
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nuflakbrr)
-[![Linkedin Badge](https://img.shields.io/badge/-nuflakbrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuflakbrr/)](https://www.linkedin.com/in/nuflakbrr/)
+[![Linkedin Badge](https://img.shields.io/badge/-nuflakbrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/nuflakbrr)](https://www.linkedin.com/public-profile/in/nuflakbrr)
 [![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
 
 <div align="center">
