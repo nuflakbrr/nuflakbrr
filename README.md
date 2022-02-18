@@ -36,7 +36,7 @@
 - Student at [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id)
 - Loves a freshly brewed cup of coffee
 
-![Metrics](https://metrics.lecoq.io/nuflakbrr?template=classic&base.repositories=0&languages=1&posts=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&posts.source=hashnode&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FJakarta)
+![Metrics](https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/github-metrics/github-metrics.svg)
 
 ## 🛠 Languages and Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
