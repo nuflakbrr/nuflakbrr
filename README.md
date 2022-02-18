@@ -24,7 +24,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/f6e1f94da59643e8a1c93291ed1e0e3b.png?r=k9j"
+      src="https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/devcard/devcard.svg"
     />
   </a>
 </div>
