@@ -7,16 +7,16 @@
       alt="Twitter"
     />
   </a>
-  <a href="https://naufalakbar.me" target="_blank">
-    <img
-      src="https://img.shields.io/badge/%F0%9F%8C%90-naufalakbar.me-blue"
-      alt="Website"
-    />
-  </a>
   <a href="https://instagram.com/kbrnugroho" target="_blank">
     <img
       src="https://img.shields.io/badge/kbrnugroho-critical?label=&logo=instagram&style=flat-square&logoColor=ffffff"
       alt="Instagram"
+    />
+  </a>
+  <a href="https://naufalakbar.me" target="_blank">
+    <img
+      src="https://img.shields.io/badge/%F0%9F%8C%90-naufalakbar.me-blue"
+      alt="Website"
     />
   </a>
 
