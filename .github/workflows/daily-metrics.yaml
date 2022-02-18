@@ -24,7 +24,7 @@ jobs:
           # Options
           user: nuflakbrr
           template: classic
-          base: activity, community
+          base: header, activity, community
           config_timezone: Asia/Jakarta
 
           # Language plugin
