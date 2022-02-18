@@ -1,26 +1,26 @@
 # Hello There! 👋
 
 <div align="left">
-  <a href="https://twitter.com/nuflakbrr" target="_blank">
+  <a href="https://twitter.com/nuflakbrr">
     <img
       src="https://img.shields.io/badge/nuflakbrr-informational?label=&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
-  <a href="https://instagram.com/kbrnugroho" target="_blank">
+  <a href="https://instagram.com/kbrnugroho">
     <img
       src="https://img.shields.io/badge/kbrnugroho-critical?label=&logo=instagram&style=flat-square&logoColor=ffffff"
       alt="Instagram"
     />
   </a>
-  <a href="https://naufalakbar.me" target="_blank">
+  <a href="https://naufalakbar.me">
     <img
       src="https://img.shields.io/badge/%F0%9F%8C%90-naufalakbar.me-blue"
       alt="Website"
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=nuflakbrr" target="_blank">
+  <a href="https://api.daily.dev/get?r=nuflakbrr">
     <img
       width="256"
       align="right"
@@ -33,10 +33,18 @@
 
 ## I am Naufal Akbar Nugroho
 
+- 17 years old
+- Domiciled in [Malang City, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Student at [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id)
 - Loves a brewed cup of coffee
 
 ![Metrics](https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/main/github-metrics.svg)
+
+## 📦 Current Project
+
+- <a href="https://github.com/nuflakbrr/SearchIt">SearchIt (Search Engine with Google Search API and React.js)</a>
+- <a href="https://github.com/nuflakbrr/papdungzz_frontend">PAPDUNGZZ (Social Media App with Reactjs and Sanity.io)</a>
+- <a href="https://github.com/nuflakbrr/pinjammobil">PinjamMobil (On Development 🚧)</a>
 
 ## 🛠 Languages and Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
