@@ -41,11 +41,17 @@
 
 ![Metrics](https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/main/github-metrics.svg)
 
+## 🏢 Organization
+
+<a href="https://github.com/raviolini">
+  <img width="100" src="https://avatars.githubusercontent.com/u/92063362?s=200&v=4" />
+</a>
+
 ## 📦 Current Project
 
-- <a href="https://github.com/nuflakbrr/SearchIt">SearchIt (Search Engine with Google Search API and React.js)</a>
-- <a href="https://github.com/nuflakbrr/papdungzz_frontend">PAPDUNGZZ (Social Media App with Reactjs and Sanity.io)</a>
 - <a href="https://github.com/nuflakbrr/pinjammobil">PinjamMobil (On Development 🚧)</a>
+- <a href="https://github.com/nuflakbrr/papdungzz_frontend">PAPDUNGZZ (Social Media App with Reactjs and Sanity.io)</a>
+- <a href="https://github.com/nuflakbrr/SearchIt">SearchIt (Search Engine with Google Search API and React.js)</a>
 
 ## 🛠 Languages and Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
