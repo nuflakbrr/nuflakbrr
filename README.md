@@ -37,7 +37,7 @@
 - Domiciled in [Malang City, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Student at [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id)
 - Have an interest in UI/UX and Website Development
-- Loves a brewed cup of coffee
+- Es Teh Susu Piral No.1
 
 ![Metrics](https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/main/github-metrics.svg)
 
