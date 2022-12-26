@@ -53,7 +53,6 @@
 - <a href="https://github.com/nuflakbrr/pendekin-link">Pendekin Link (Shortener Link with Nextjs, Prisma, and Planetscale)</a>
 - <a href="https://github.com/nuflakbrr/satoeoentoeksemoeah">SATOEOENTOEKSEMOEAH (All Study Case from SMK Telkom Malang in One Project)</a>
 - <a href="https://github.com/nuflakbrr/papdungzz_frontend">PAPDUNGZZ (Social Media App with Reactjs and Sanity.io)</a>
-- <a href="https://github.com/nuflakbrr/SearchIt">SearchIt (Search Engine with Google Search API and React.js)</a>
 
 ## 🛠 Languages and Tools
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
