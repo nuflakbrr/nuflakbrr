@@ -47,7 +47,7 @@
   <img width="100" src="https://avatars.githubusercontent.com/u/92063362?s=200&v=4" />
 </a>
 
-## 📦 Current Project
+## 📦 Recent Project
 
 - <a href="https://github.com/nuflakbrr/kotaksuara">KotakSuara (Voting App with Nextjs, Prisma, and Planetscale)</a>
 - <a href="https://github.com/nuflakbrr/pendekin-link">Pendekin Link (Shortener Link with Nextjs, Prisma, and Planetscale)</a>
