@@ -47,6 +47,26 @@
   <img width="100" src="https://avatars.githubusercontent.com/u/92063362?s=200&v=4" />
 </a>
 
+## 🔎 Looking for Next.js Boilerplate?
+
+You can try this! 👇🏻
+
+- Typescript Version
+
+```bash
+npx degit nuflakbrr/next-template#master <project_name>
+```
+
+- Javascript Version
+
+```bash
+npx degit nuflakbrr/next-template#javascript-version <project_name>
+```
+
+And also, you can look the source code below! 👇🏻
+
+[Source Code](https://github.com/nuflakbrr/next-template)
+
 ## 📦 Recent Project
 
 - <a href="https://github.com/nuflakbrr/kotaksuara">KotakSuara (Voting App with Nextjs, Prisma, and Planetscale)</a>
