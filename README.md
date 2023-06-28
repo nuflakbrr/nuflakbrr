@@ -35,7 +35,7 @@
 
 - 18 years old
 - Domiciled in [Malang City, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
-- Graduate of [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id)
+- Graduate Student batch 29 of [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id)
 - Have an interest in UI/UX and Website Development
 - Es Teh Susu Piral No.1
 
