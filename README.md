@@ -47,6 +47,10 @@
   <img width="100" src="https://avatars.githubusercontent.com/u/92063362?s=200&v=4" />
 </a>
 
+<a href="https://github.com/tibatibangoding">
+  <img width="100" src="https://avatars.githubusercontent.com/u/138021151?s=200&v=4" />
+</a>
+
 ## 🔎 Looking for Next.js Boilerplate?
 
 You can try this! 👇🏻
