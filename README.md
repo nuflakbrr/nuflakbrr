@@ -103,7 +103,8 @@ And also, you can look the source code below! 👇🏻
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ## 📞 Contact Me
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nuflakbrr)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=nuflakbrr)-->
+[![visitors](https://komarev.com/ghpvc/?username=nuflakbrr&style=flat-square&color=6082B0)](https://www.github.com/nuflakbrr)
 [![Linkedin Badge](https://img.shields.io/badge/-nuflakbrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/nuflakbrr)](https://www.linkedin.com/public-profile/in/nuflakbrr)
 [![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
 
