@@ -60,6 +60,12 @@ You can try this! 👇🏻
 npx degit nuflakbrr/next-template#master <project_name>
 ```
 
+- Typescript + Payload CMS Version
+
+```bash
+npx degit nuflakbrr/next-template#typescript-payloadcms-version <project_name>
+```
+
 - Javascript Version
 
 ```bash
