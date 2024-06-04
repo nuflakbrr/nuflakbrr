@@ -1,36 +1,9 @@
 # Hello There! 👋
 
-<div align="left">
-  <a href="https://twitter.com/nuflakbrr">
-    <img
-      src="https://img.shields.io/badge/nuflakbrr-informational?label=&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://instagram.com/kbrnugroho">
-    <img
-      src="https://img.shields.io/badge/kbrnugroho-critical?label=&logo=instagram&style=flat-square&logoColor=ffffff"
-      alt="Instagram"
-    />
-  </a>
-  <a href="https://naufalakbar.me">
-    <img
-      src="https://img.shields.io/badge/%F0%9F%8C%90-naufalakbar.me-blue"
-      alt="Website"
-    />
-  </a>
-
-  <a href="https://app.daily.dev/nuflakbrr">
-    <img
-      width="300"
-      align="right"
-      src="https://github.com/nuflakbrr/nuflakbrr/blob/main/devcard.png"
-      alt="Naufal Akbar Nugroho's Dev Card"
-    />
-  </a>
-</div>
-
-<br />
+[![X](https://img.shields.io/badge/nuflakbrr-%23000000.svg?&logo=x&style=flat-square&color=000000&logoColor=ffffff)](https://twitter.com/nuflakbrr)
+[![Instagram](https://img.shields.io/badge/kbrnugroho-%23E4405F.svg?label=&logo=instagram&style=flat-square&logoColor=ffffff)](https://twitter.com/nuflakbrr)
+[![Instagram](https://img.shields.io/badge/%F0%9F%8C%90-naufalakbar.me-blue)](https://naufalakbar.me)
+[![DevCard](https://github.com/nuflakbrr/nuflakbrr/blob/main/devcard.png)](https://app.daily.dev/nuflakbrr)
 
 ## I am Naufal Akbar Nugroho
 
