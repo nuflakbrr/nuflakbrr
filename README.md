@@ -20,11 +20,11 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=nuflakbrr">
+  <a href="https://app.daily.dev/nuflakbrr">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/devcard/devcard.svg"
+      src="https://github.com/nuflakbrr/nuflakbrr/blob/main/devcard.png"
     />
   </a>
 </div>
@@ -84,6 +84,7 @@ And also, you can look the source code below! 👇🏻
 - <a href="https://github.com/nuflakbrr/papdungzz_frontend">PAPDUNGZZ (Social Media App with Reactjs and Sanity.io)</a>
 
 ## 🛠 Languages and Tools
+
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -108,6 +109,7 @@ And also, you can look the source code below! 👇🏻
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ## 📞 Contact Me
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nuflakbrr)
 [![Linkedin Badge](https://img.shields.io/badge/-nuflakbrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/nuflakbrr)](https://www.linkedin.com/public-profile/in/nuflakbrr)
 [![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
