@@ -3,7 +3,7 @@
 [![X](https://img.shields.io/badge/nuflakbrr-%23000000.svg?&logo=x&style=flat-square&color=000000&logoColor=ffffff)](https://twitter.com/nuflakbrr)
 [![Instagram](https://img.shields.io/badge/kbrnugroho-%23E4405F.svg?label=&logo=instagram&style=flat-square&logoColor=ffffff)](https://twitter.com/nuflakbrr)
 [![Instagram](https://img.shields.io/badge/%F0%9F%8C%90-naufalakbar.me-blue)](https://naufalakbar.me)
-<img src="https://github.com/nuflakbrr/nuflakbrr/blob/main/devcard.png" alt="Naufal Akbar Nugroho's Dev Card" width="320" align=right>
+<img src="https://github.com/nuflakbrr/nuflakbrr/blob/main/devcard.png" alt="Naufal Akbar Nugroho's Dev Card" width="330" align=right>
 
 ## I am Naufal Akbar Nugroho
 
