@@ -22,7 +22,7 @@
 
   <a href="https://app.daily.dev/nuflakbrr">
     <img
-      width="356"
+      width="300"
       align="right"
       src="https://github.com/nuflakbrr/nuflakbrr/blob/main/devcard.png"
       alt="Naufal Akbar Nugroho's Dev Card"
