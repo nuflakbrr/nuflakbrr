@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/%F0%9F%8C%90-naufalakbar.me-blue)](https://naufalakbar.me)
 <img src="https://github.com/nuflakbrr/nuflakbrr/blob/main/devcard.png" alt="Naufal Akbar Nugroho's Dev Card" width="330" align=right>
 
-## I am Naufal Akbar Nugroho
+### I am Naufal Akbar Nugroho
 
 - 19 years old
 - Domiciled in [Malang City, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
