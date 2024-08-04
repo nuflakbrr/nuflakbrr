@@ -10,7 +10,8 @@
 - 19 years old
 - Domiciled in [Malang City, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduate Student batch 29 of [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id)
-- Have an interest in UI/UX and Website Development
+- Undergraduate Student on Information Systems at [Universitas Merdeka Malang](https://unmer.ac.id)
+- Have an interest Website Development
 
 ![Metrics](https://raw.githubusercontent.com/nuflakbrr/nuflakbrr/main/github-metrics.svg)
 
