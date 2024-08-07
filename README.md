@@ -25,38 +25,26 @@
   <img width="100" src="https://avatars.githubusercontent.com/u/138021151?s=200&v=4" />
 </a>
 
-## 🔎 Looking for Next.js Boilerplate?
+## 🔎 Looking for Project Starter Boilerplate?
 
 You can try this! 👇🏻
 
-- Typescript Version
-
 ```bash
-npx degit nuflakbrr/next-template#master <project_name>
-```
-
-- Typescript + Payload CMS Version
-
-```bash
-npx degit nuflakbrr/next-template#typescript-payloadcms-version <project_name>
-```
-
-- Javascript Version
-
-```bash
-npx degit nuflakbrr/next-template#javascript-version <project_name>
+npx bikinproject@latest
 ```
 
 And also, you can look the source code below! 👇🏻
 
-[Source Code](https://github.com/nuflakbrr/next-template)
+[Source Code](https://github.com/nuflakbrr/bikinproject)
 
 ## 📦 Recent Project
 
+- <a href="https://github.com/nuflakbrr/bikinproject">BikinProject (Starter Project Generator)</a>
+- <a href="https://github.com/nuflakbrr/next-template">Next Template (Starter Project Next.js Framework)</a>
+- <a href="https://github.com/nuflakbrr/node-template">Node Template (Starter Project Node.js Framework)</a>
 - <a href="https://github.com/nuflakbrr/kotaksuara">KotakSuara (Voting App with Nextjs, Prisma, and Planetscale)</a>
 - <a href="https://github.com/nuflakbrr/pendekin-link">Pendekin Link (Shortener Link with Nextjs, Prisma, and Planetscale)</a>
 - <a href="https://github.com/nuflakbrr/satoeoentoeksemoeah">SATOEOENTOEKSEMOEAH (All Study Case from SMK Telkom Malang in One Project)</a>
-- <a href="https://github.com/nuflakbrr/papdungzz_frontend">PAPDUNGZZ (Social Media App with Reactjs and Sanity.io)</a>
 
 ## 🛠 Languages and Tools
 
