@@ -1,13 +1,13 @@
 # Hello There! 👋
 
-[![X](https://img.shields.io/badge/nuflakbrr-%23000000.svg?&logo=x&style=flat-square&color=000000&logoColor=ffffff)](https://twitter.com/nuflakbrr)
-[![Instagram](https://img.shields.io/badge/kbrnugroho-%23E4405F.svg?label=&logo=instagram&style=flat-square&logoColor=ffffff)](https://twitter.com/nuflakbrr)
-[![Instagram](https://img.shields.io/badge/%F0%9F%8C%90-naufalakbar.me-blue)](https://naufalakbar.me)
+[![X](https://img.shields.io/badge/nuflakbrr-%23000000.svg?&logo=x&style=flat-square&color=000000&logoColor=ffffff)](https://x.com/nuflakbrr)
+[![Instagram](https://img.shields.io/badge/kbrnugroho-%23E4405F.svg?label=&logo=instagram&style=flat-square&logoColor=ffffff)](https://instagram.com/kbrnugroho)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90-nuflakbrr.github.io-blue)](https://nuflakbrr.github.io)
 <img src="https://github.com/nuflakbrr/nuflakbrr/blob/main/devcard.png" alt="Naufal Akbar Nugroho's Dev Card" width="330" align=right>
 
 ### I am Naufal Akbar Nugroho
 
-- 19 years old
+- 20 years old
 - Domiciled in [Malang City, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduate Student batch 29 of [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id)
 - Undergraduate Student on Information Systems at [Universitas Merdeka Malang](https://unmer.ac.id)
@@ -33,8 +33,9 @@ You can try this! 👇🏻
 npx bikinproject@latest
 ```
 
-And also, you can look the source code below! 👇🏻
+And also, you can look the documentation & source code below! 👇🏻
 
+[Documentation](https://nuflakbrr.github.io/bikinproject)
 [Source Code](https://github.com/nuflakbrr/bikinproject)
 
 ## 📦 Recent Project
@@ -74,7 +75,7 @@ And also, you can look the source code below! 👇🏻
 ## 📞 Contact Me
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nuflakbrr)
-[![Linkedin Badge](https://img.shields.io/badge/-nuflakbrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/nuflakbrr)](https://www.linkedin.com/public-profile/in/nuflakbrr)
+[![Linkedin Badge](https://img.shields.io/badge/-nuflakbrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuflakbrr)](https://www.linkedin.com/in/nuflakbrr)
 [![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
 
 <div align="center">
