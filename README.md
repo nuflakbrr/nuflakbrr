@@ -41,8 +41,8 @@ And also, you can look the documentation & source code below! 👇🏻
 ## 📦 Recent Project
 
 - <a href="https://github.com/nuflakbrr/bikinproject">BikinProject (Starter Project Generator)</a>
-- <a href="https://github.com/nuflakbrr/next-template">Next Template (Starter Project Next.js Framework)</a>
-- <a href="https://github.com/nuflakbrr/node-template">Node Template (Starter Project Node.js Framework)</a>
+- <a href="https://github.com/nuflakbrr/frontend-template">Frontend Template (Starter Project For Frontend)</a>
+- <a href="https://github.com/nuflakbrr/backend-template">Backend Template (Starter Project For Backend)</a>
 - <a href="https://github.com/nuflakbrr/kotaksuara">KotakSuara (Voting App with Nextjs, Prisma, and Planetscale)</a>
 - <a href="https://github.com/nuflakbrr/pendekin-link">Pendekin Link (Shortener Link with Nextjs, Prisma, and Planetscale)</a>
 - <a href="https://github.com/nuflakbrr/satoeoentoeksemoeah">SATOEOENTOEKSEMOEAH (All Study Case from SMK Telkom Malang in One Project)</a>
