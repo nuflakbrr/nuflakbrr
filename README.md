@@ -30,7 +30,11 @@
 You can try this! 👇🏻
 
 ```bash
-npx bikinproject@latest
+pnpx create-bikinproject-app@latest
+
+# or
+
+pnpx create-bpa@latest
 ```
 
 And also, you can look the documentation & source code below! 👇🏻
